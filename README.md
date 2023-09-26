@@ -30,8 +30,8 @@ Welcome to GiftMaster- AkaServices, the advanced Discord bot that rewards you fo
 
 ## Let's Make It <3
 
-<a href="https://replit.com/github/https://github.com/TriggeredGamerX/AkaServices">
-  <img src="https://replit.com/badge/github/TriggeredGamerX/AkaServices" alt="Run on Replit" />
+<a href="https://replit.com/github/https://github.com/TriggeredGamerX/AkaServices-Slash-Supported">
+  <img src="https://replit.com/badge/github/TriggeredGamerX/AkaServices-Slash-Supported" alt="Run on Replit" />
 </a>
 
 ## Installation and Configuration
