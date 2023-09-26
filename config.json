@@ -1,0 +1,31 @@
+{
+  "token": "",
+  "username": "",
+  "password": "",
+  "port": "3000",
+  "clientId": "1124023704091901952",
+  "guildId": "1150804792667545631",
+  "status": "Developed By AkaTriggered 🔥",
+  "website": "https://akaservicesslash.thedeveloperhub.repl.co",
+  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
+  "footer": "Developed By AkaTriggered 🔥",
+  "genChannel": "00000000000000000000",
+  "premiumChannel": "00000000000000000000",
+  "reportschannelid": "1153387775366795355",
+  "adChannelId": "1150823676867002469",
+  "genCooldown": "5",
+  "premiumCooldown": "3",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "supportCategoryId": "1155765142181650502",
+  "closedTicketsCategoryId": "1155767882102362212",
+  "logChannelId": "1151225184930504824",
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  }
+}
